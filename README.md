@@ -8,7 +8,7 @@ Real-time educational presentation from speech using AI and NLP. This project ut
 2. [Anurag P](github.com/anuragrajanp)
 3. [Abdul Majid](github.com/majid-2002)
 4. [Sai Nath A](github.com/sai-na)
-5. 
+
 ## Team Id
 Team id here
 ## Link to product walkthrough
