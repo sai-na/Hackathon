@@ -23,4 +23,13 @@ Library Name - Version
 ## How to configure
 Instructions for setting up project
 ## How to Run
-Instructions for running
+
+1. Make sure you have Node.js and npm (Node Package Manager) installed on your machine. You can download and install them from the official website: https://nodejs.org/en/.
+2. navigate to its directory using the following command:
+   cd my-app
+3. install packages
+   npm install
+4. Start the development server by running the following command:
+   npm start
+   This command will start the development server and open your app in the browser. You should be able to see your app running at http://localhost:3000.
+
