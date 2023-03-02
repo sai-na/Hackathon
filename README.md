@@ -4,10 +4,10 @@
 Real-time educational presentation from speech using AI and NLP. This project utilizes real-time speech-to-text and AI to generate dynamic educational presentations with customizable expertise levels, automated study material generation, and Q&A.
 
 ## Team members
-1. [Aqeel](github.com/aqeelshamz)
-2. [Anurag P](github.com/anuragrajanp)
-3. [Abdul Majid](github.com/majid-2002)
-4. [Sai Nath A](github.com/sai-na)
+1. [Aqeel](https://github.com/aqeelshamz)
+2. [Anurag P](https://github.com/anuragrajanp)
+3. [Abdul Majid](https://github.com/majid-2002)
+4. [Sai Nath A](https://github.com/sai-na)
 
 ## Team Id
 Team id here
